@@ -3882,7 +3882,9 @@ input, select, textarea {
 
 	#intro .me{
 		border-radius: 50%;
-		width: 10%;
+		width: 200px;
+		height: 200px;
+
 	}
 
 		#intro p {
